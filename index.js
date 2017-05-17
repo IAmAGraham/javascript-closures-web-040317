@@ -1,1 +1,3 @@
-const app = "I don't do much."
+const app = "I don't do shit."
+
+//i hate it when that happens
